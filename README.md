@@ -12,3 +12,4 @@ CTIS-221 Term Project By
     Kadir Aygümüş
     Mehmet Enes Çakır
     Berk Bera Özer
+![UML_Diagram_HMS](https://github.com/mec-cs/hospital-management-sys/assets/102901204/00c302a1-b2bb-44e7-ba28-3b64dac97374)
