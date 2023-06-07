@@ -5,7 +5,7 @@ Each hospital may have some doctors who may have some patients. Delete, search, 
 
 
 
-Hospitals knows a doctor who knows a patient.
+"Hospitals knows a doctor who knows a patient."
 
 CTIS-221 Term Project By
 
