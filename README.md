@@ -13,6 +13,7 @@ Each hospital may have some doctors who may have some patients. Delete, search, 
 
 # Main Frame 
 // After the data input from system -- "Data Read" button was pressed
+* Github Icons have hypherlinks to the our github accounts
 ![Ekran görüntüsü 2023-06-08 021517](https://github.com/mec-cs/hospital-management-sys/assets/102901204/882626b2-f23f-4f95-a24f-aa4722475708)
 
 # Add Frame
