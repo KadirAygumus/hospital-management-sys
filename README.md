@@ -36,6 +36,6 @@ Each hospital may have some doctors who may have some patients. Delete, search, 
 
 CTIS-221 Term Project By
 
-    Kadir Aygümüş
+    Kadir Aygümüş 1
     Mehmet Enes Çakır
     Berk Bera Özer
